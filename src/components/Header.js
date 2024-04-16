@@ -25,4 +25,3 @@ const Header = ({ onSearch }) => {
 
 export default Header;
 
-//This is test
