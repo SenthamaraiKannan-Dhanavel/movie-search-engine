@@ -13,6 +13,7 @@ The primary purpose of this project is to provide a hands-on learning experience
 - **HTML**: The markup language for structuring web pages and defining content.
 - **CSS**: The styling language used to control the visual appearance of web elements.
 - **Axios**: A library for making HTTP requests to fetch data from APIs.
+- **Express**: A fast, unopinionated, minimalist web framework for Node.js, used to build web applications and APIs.
 - **React Router**: A library for handling routing and navigation within the React application.
 
 ## Features
@@ -26,10 +27,10 @@ The primary purpose of this project is to provide a hands-on learning experience
 Before getting started, make sure you have Node.js and npm (Node Package Manager) installed on your system.
 
 1. Clone the repository: `git clone https://github.com/your-username/movie-search-engine.git`
-2. Install dependencies: `cd movie-search-engine && npm install`
+2. Install dependencies: `cd movie-search-engine && npm install` , `npm install axios` , `npm install express`
 3. Start the mock API server: `node server.js`
 4. Start the React application: `npm start`
-5. Access the application: Open your browser and navigate to `http://localhost:3000`
+5. Access the application: Open your browser and navigate to ```http://localhost:3000```
 
 ## Expanding the Project
 
